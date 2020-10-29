@@ -15,15 +15,13 @@ In this project my partner and I had to demonstrate our understandings of protoc
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
 cd ./League.out
 ```
 
 ## UI Design
 
-The UI Design follows what the professor determined before he gave us the project.
+The UI Design follows what the professor determined before he gave us the project. It is just a white screen with the characters of the players currently connect.
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
