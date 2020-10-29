@@ -12,19 +12,19 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 325](project1)
+### [Project 2 Title | CSCI 325](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 332](project1)
+### [Project 3 Title | CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 419](project1)
+### [Project 4 Title | CSCI 419](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Screenshots%20(22).png)
 
 ---
 
@@ -44,7 +44,7 @@ Ethics Papers
 ### [Paper 3 Title](/pdf/Ethics paper.pdf)
 
 -   **Class: CSCI 301** 
--   **Grade:**
+-   **Grade:100**
 
 ---
 
@@ -54,13 +54,13 @@ Presentations
 ### [Presentation 1 Title](/pdf/Cybersecurity Presentation.pdf)
 
 - **Class: CSCI 301** 
-- **Grade:**
+- **Grade: 100**
 
 
 ### [Presentation 2 Title](/pdf/Security Presentation.pdf)
 
 - **Class: CSCI 301** 
-- **Grade:**
+- **Grade: 100**
 
 ---
 
