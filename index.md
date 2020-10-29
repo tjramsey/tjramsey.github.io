@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Project 4 Title | CSCI 419](project4)
 
-![Project 4 Thumbnail Name](images/Screenshots%20(22).png)
+![Project 4 Thumbnail Name](images/Screenshot%20(22).png)
 
 ---
 
