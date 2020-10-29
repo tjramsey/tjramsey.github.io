@@ -28,7 +28,7 @@ Fig 1. Databases/Pages of project
 ![screenshot](images/Screenshot%20(22).png)
 Fig 2. ER diagram showing connections
 
-![screenshot](images/Screenshot%20(22).png)
+![screenshot](images/Screenshot%20(23).png)
 Fig 3. 2 Databases
 
 ## 3. Additional Considerations
