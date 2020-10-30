@@ -16,25 +16,25 @@ In this project my partner and I had to demonstrate our understandings of protoc
 ## How to compiles / run the program
 
 ```bash
-cd ./League.out
+./League.out
 ```
 
 ## UI Design
 
-The UI Design follows what the professor determined before he gave us the project. It is just a white screen with the characters of the players currently connect.
+When the program is first run it will ask the user to select a character. Afterwards it will ask for the user to input a name and press enter. It will then show the user the gameboard with the character and other player's characters if those players are on the same network. The characters movements are controlled through mouse clicks and attacks are controlled by the keys WASDXQEZC. When a players health reaches 0 they lose, and a player can quit by pressign the escape button.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/Screenshot%20(24).png)
+Fig 1. Character select screen
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/Screenshot%20(25).png)
+Fig 2. Name select screen
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Screenshot%20(26).png)
+Fig 3. Game board
 
 ## 3. Additional Considerations
 
-There is a lack of screenshots because I need multiple computers with the proper software to test the code completely. 
+There is only one character on screen since I do not have multiple computers to run program. Currently attacking does not work since source-code provided by professor needed to be changed in order for it to work.
 
 
 [Back to Portfolio](./)
