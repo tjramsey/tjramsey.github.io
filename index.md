@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Project 1 Title | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/Screenshot%20(25).png)
+![Project 1 Thumbnail Name](images/Screenshot%20(24).png)
 
 ---
 ### [Project 2 Title | CSCI 325](project2)
