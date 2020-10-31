@@ -12,12 +12,12 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Screenshot%20(24).png)
 
 ---
-### [Project 2 Title | CSCI 325](project2)
+### [Project 2 Title | CSCI 325](project2.md)
 
 ![Project 2 Thumbnail Name](images/Screenshot%20(40).png)
 
 ---
-### [Project 3 Title | CSCI 332](project3)
+### [Project 3 Title | CSCI 332](project3.md)
 
 ![Project 3 Thumbnail Name](images/Screenshot%20(37).png)
 
