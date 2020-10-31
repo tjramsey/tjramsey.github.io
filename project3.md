@@ -4,7 +4,7 @@ Project 3 Title
 ===============
 
 -   **Class: CSCI 325** 
--   **Grade: A**
+-   **Grade: 80**
 -   **Language(s):C++, Makefile, HTML **
 -   **Source Code Repository:** [CSCI 325 Project2](https://github.com/tjramsey/CSCI-325-Project2/)  
     (Please [email me](mailto:tjramsey@csustudent.net?subject=GitHub%20Access) to request access.)
