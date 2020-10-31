@@ -27,7 +27,7 @@ It has no actual user interface impelmented. In order to get different results w
 Fig 1. The desired output from project
 
 ![screenshot](images/Screenshot%20(36).png)
-Fig 2. Output after testing code was changed
+Fig 2. Output after testing code was changed. Look at where "Billy Collins", was his Id was changed to 0 so he doesn't appear.
 
 ## 3. Additional Considerations
 The project was only ment to provide certain desired results not for a user to use them.
