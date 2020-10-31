@@ -9,17 +9,17 @@ Programming Projects
 ---
 ### [Project 1 Title | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/Screenshot%20(25).png)
 
 ---
 ### [Project 2 Title | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Screenshot%20(40).png)
 
 ---
 ### [Project 3 Title | CSCI 332](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Screenshot%20(37).png)
 
 ---
 ### [Project 4 Title | CSCI 419](project4.md)
@@ -34,7 +34,7 @@ Ethics Papers
 ### [Paper 1 Title](/pdf/CSCI 315 Ethics Paper.pdf)
 
 -   **Class: CSCI 315**  
--   **Grade:**
+-   **Grade: A**
 
 ### [Paper 2 Title](/pdf/CSCI 332 Ethics Paper.pdf)
 
