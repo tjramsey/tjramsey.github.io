@@ -26,7 +26,7 @@ It has no actual user interface impelmented. In order to get different results w
 ![screenshot](images/Screenshot%20(35).png)
 Fig 1. The desired output from project
 
-![screenshot](images/Screenshot%20(35).png)
+![screenshot](images/Screenshot%20(36).png)
 Fig 2. Output after testing code was changed
 
 ## 3. Additional Considerations
