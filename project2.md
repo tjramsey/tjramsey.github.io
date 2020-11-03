@@ -31,10 +31,10 @@ for each group member. (From project description provided by professor)
 When a user want to change the ouput recieved they must change what datafile they use when they type "make (datafile)".
 
 ![screenshot](images/Screenshot%20(40).png)
-Fig 1. Running make small30 - correctly
+Fig 1. When program is run correctly
 
 ![screenshot](images/Screenshot%20(41).png)
-Fig 2. Running make large50 - error occurs.
+Fig 2. When an error occurs.
 
 ## 3. Additional Considerations
 In how to compile the datafiles are located in the data folder and in the release, and you can but any set of numbers delimted by spaces between each number for example the sets: "1 2 3 4" "5 6 7" "2 5 6 4".
