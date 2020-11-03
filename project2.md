@@ -24,7 +24,7 @@ for each group member. (From project description provided by professor)
 ## How to compiles / run the program
 
 ```bash
-make (datafile)
+./min-overlap-test data/(datafile).set yes "set of number delimited by spaces"
 ```
 
 ## UI Design
@@ -37,6 +37,6 @@ Fig 1. Running make small30 - correctly
 Fig 2. Running make large50 - error occurs.
 
 ## 3. Additional Considerations
-There is only a few select datafile to use.
+In how to compile the datafiles are located in the data folder and in the release, and you can but any set of numbers delimted by spaces between each number for example the sets: "1 2 3 4" "5 6 7" "2 5 6 4".
 
 [Back to Portfolio](./)
