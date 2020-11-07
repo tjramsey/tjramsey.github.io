@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 4 Title
+Final Database Project
 ===============
 
 -   **Class: CSCI 419** 
 -   **Grade: 97**
--   **Language(s):PLSQL/MySQL **
+-   **Language(s):PLSQL/MySQL**
 -   **Source Code Repository:** [CSCI 419 Project](https://github.com/tjramsey/CSCI-419-Project)  
     (Please [email me](mailto:tjramsey@csustudent.net?subject=GitHub%20Access) to request access.)
 
