@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+Basic HTML Parsing and Crawling
 ===============
 
 -   **Class: CSCI 325** 
