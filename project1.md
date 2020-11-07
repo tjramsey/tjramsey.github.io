@@ -5,7 +5,7 @@ League
 
 -   **Class: CSCI 332** 
 -   **Grade: 96.67**
--   **Language(s):C++*
+-   **Language(s):C++**
 -   **Source Code Repository:** [CSCI 332 Project](https://github.com/tjramsey/CSCI-332-Project/)  
     (Please [email me](mailto:tjramsey@csustudent.net?subject=GitHub%20Access) to request access.)
 
