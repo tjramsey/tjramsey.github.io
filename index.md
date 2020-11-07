@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:tjramsey@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 332](project1)
+### [League | CSCI 332](project1)
 
 ![Project 1 Thumbnail Name](images/Screenshot%20(24).png)
 
 ---
-### [Project 2 Title | CSCI 325.1](project2.md)
+### [Minimum Overlap Coverage | CSCI 315.1](project2.md)
 
 ![Project 2 Thumbnail Name](images/Screenshot%20(40).png)
 
 ---
-### [Project 3 Title | CSCI 325.2](project3.md)
+### [Basic HTML Parsing and Crawling | CSCI 315.2](project3.md)
 
 ![Project 3 Thumbnail Name](images/Screenshot%20(37).png)
 
 ---
-### [Project 4 Title | CSCI 419](project4.md)
+### [Final Database Project | CSCI 419](project4.md)
 
 ![Project 4 Thumbnail Name](images/Screenshot%20(22).png)
 
@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/CSCI 315 Ethics Paper.pdf)
+### [Software Ethics](/pdf/CSCI 315 Ethics Paper.pdf)
 
 -   **Class: CSCI 315**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/CSCI 332 Ethics Paper.pdf)
+### [The Software Ownership Debate](/pdf/CSCI 332 Ethics Paper.pdf)
 
 -   **Class: CSCI 332** 
 -   **Grade: 100**
 
-### [Paper 3 Title](/pdf/Ethics paper.pdf)
+### [Computing and Programming Ethics](/pdf/Ethics paper.pdf)
 
 -   **Class: CSCI 301** 
 -   **Grade:100**
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Cybersecurity Presentation.pdf)
+### [Cybersecurity](/pdf/Cybersecurity Presentation.pdf)
 
 - **Class: CSCI 301** 
 - **Grade: 100**
 
 
-### [Presentation 2 Title](/pdf/Security Presentation.pdf)
+### [Security](/pdf/Security Presentation.pdf)
 
 - **Class: CSCI 301** 
 - **Grade: 100**
