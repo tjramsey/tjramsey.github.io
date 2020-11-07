@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+Minimum Overlap Coverage
 ===============
 
 -   **Class: CSCI 325** 
