@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+League
 ===============
 
 -   **Class: CSCI 332** 
