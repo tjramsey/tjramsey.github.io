@@ -3,10 +3,10 @@
 Basic HTML Parsing and Crawling
 ===============
 
--   **Class: CSCI 325** 
+-   **Class: CSCI 315** 
 -   **Grade: 80**
 -   **Language(s):C++, Makefile, HTML **
--   **Source Code Repository:** [CSCI 325 Project2](https://github.com/tjramsey/CSCI-315-Project2)  
+-   **Source Code Repository:** [CSCI 315 Project2](https://github.com/tjramsey/CSCI-315-Project2)  
     (Please [email me](mailto:tjramsey@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
